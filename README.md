@@ -1,2 +1,14 @@
-# Prodigy Info Tech - Machine Learning Internship Task 02  
-## Customer Segmentation Using K-Means Clustering
+# Prodigy Info Tech - Machine Learning Internship Task 02    
+## 🛍️ Customer Segmentation using K-Means Clustering
+
+This project applies **K-Means clustering** to segment customers based on their spending behavior and income, helping businesses to better understand and target their customers.
+
+## 🔗 Dataset
+Dataset used: Kaggle Customer Segmentation Dataset
+
+## 📊 Dataset Features: 
+CustomerID -- Unique ID assigned to each customer (used as an identifier)
+Gender --	Gender of the customer (Male / Female)
+Age --	Age of the customer (in years)
+Annual Income (k$) --	Customer’s yearly income (in thousands of dollars, e.g., 70 = $70,000)
+Spending Score (1-100) --	A score assigned by the mall based on customer behavior and spending pattern (higher = spends more)
