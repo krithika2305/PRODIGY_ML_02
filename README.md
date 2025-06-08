@@ -4,7 +4,7 @@
 This project applies **K-Means clustering** to segment customers based on their spending behavior and income, helping businesses to better understand and target their customers.
 
 ## 🔗 Dataset
-Dataset used: Kaggle Customer Segmentation Dataset
+Dataset used: [Kaggle Customer Segmentation Dataset](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 ## 📊 Dataset Features: 
 CustomerID -- Unique ID assigned to each customer (used as an identifier)  
@@ -21,7 +21,7 @@ Spending Score (1-100) --	A score assigned by the mall based on customer behavio
 -- Cluster 4: Low income, high spending  
 
 ## Features Used for Clustering
-Annual Income (k$)
+Annual Income (k$)  
 Spending Score (1-100)  
 
 ## Special thanks to Prodigy Info Tech for the internship opportunity  
