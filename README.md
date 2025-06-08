@@ -23,3 +23,6 @@ Spending Score (1-100) --	A score assigned by the mall based on customer behavio
 ## Features Used for Clustering
 Annual Income (k$)
 Spending Score (1-100)
+
+->Special thanks to Prodigy Info Tech for the internship opportunity
+#ProdigyInfoTech
