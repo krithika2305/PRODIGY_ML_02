@@ -19,3 +19,7 @@ Spending Score (1-100) --	A score assigned by the mall based on customer behavio
 -- Cluster 2: Low income, low spending  
 -- Cluster 3: High income, low spending  
 -- Cluster 4: Low income, high spending  
+
+## Features Used for Clustering
+Annual Income (k$)
+Spending Score (1-100)
