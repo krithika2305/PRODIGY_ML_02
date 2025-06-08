@@ -4,7 +4,7 @@
 This project applies **K-Means clustering** to segment customers based on their spending behavior and income, helping businesses to better understand and target their customers.
 
 ## 🔗 Dataset
-Dataset used:Kaggle Customer Segmentation Dataset
+Dataset used: Kaggle Customer Segmentation Dataset
 
 ## 📊 Dataset Features: 
 CustomerID -- Unique ID assigned to each customer (used as an identifier)  
